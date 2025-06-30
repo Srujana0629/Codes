@@ -7,5 +7,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0175-combine-two-tables](https://github.com/Srujana0629/Codes/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Srujana0629/Codes/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Srujana0629/Codes/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Srujana0629/Codes/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
