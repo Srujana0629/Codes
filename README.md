@@ -20,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Srujana0629/Codes/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/Srujana0629/Codes/tree/master/1317-monthly-transactions-i) |
 | [1670-patients-with-a-condition](https://github.com/Srujana0629/Codes/tree/master/1670-patients-with-a-condition) |
+| [1811-fix-names-in-a-table](https://github.com/Srujana0629/Codes/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Srujana0629/Codes/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
