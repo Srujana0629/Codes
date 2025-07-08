@@ -1,5 +1,5 @@
-# Codes
-A collection of LeetCode questions to ace the coding interview!
+# SQL Queries
+A collection of LeetCode questions to ace the SQL interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
