@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [1670-patients-with-a-condition](https://github.com/Srujana0629/Codes/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Srujana0629/Codes/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Srujana0629/Codes/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Srujana0629/Codes/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
