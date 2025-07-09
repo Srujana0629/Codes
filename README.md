@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the SQL interview!
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Srujana0629/Codes/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srujana0629/Codes/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1135-customers-who-bought-all-products](https://github.com/Srujana0629/Codes/tree/master/1135-customers-who-bought-all-products) |
+| [1179-game-play-analysis-i](https://github.com/Srujana0629/Codes/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Srujana0629/Codes/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Srujana0629/Codes/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/Srujana0629/Codes/tree/master/1317-monthly-transactions-i) |
