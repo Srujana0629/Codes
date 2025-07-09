@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the SQL interview!
 | [0185-department-top-three-salaries](https://github.com/Srujana0629/Codes/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Srujana0629/Codes/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Srujana0629/Codes/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/Srujana0629/Codes/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srujana0629/Codes/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Srujana0629/Codes/tree/master/0607-sales-person) |
 | [1135-customers-who-bought-all-products](https://github.com/Srujana0629/Codes/tree/master/1135-customers-who-bought-all-products) |
