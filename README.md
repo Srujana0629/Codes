@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the SQL interview!
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srujana0629/Codes/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Srujana0629/Codes/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Srujana0629/Codes/tree/master/0607-sales-person) |
+| [0627-swap-salary](https://github.com/Srujana0629/Codes/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/Srujana0629/Codes/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Srujana0629/Codes/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Srujana0629/Codes/tree/master/1182-game-play-analysis-iv) |
