@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the SQL interview!
 | [1625-group-sold-products-by-the-date](https://github.com/Srujana0629/Codes/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Srujana0629/Codes/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Srujana0629/Codes/tree/master/1811-fix-names-in-a-table) |
+| [1827-invalid-tweets](https://github.com/Srujana0629/Codes/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Srujana0629/Codes/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Srujana0629/Codes/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Srujana0629/Codes/tree/master/2127-employees-whose-manager-left-the-company) |
