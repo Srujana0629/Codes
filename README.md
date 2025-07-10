@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the SQL interview!
 | [1179-game-play-analysis-i](https://github.com/Srujana0629/Codes/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Srujana0629/Codes/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Srujana0629/Codes/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1258-article-views-i](https://github.com/Srujana0629/Codes/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Srujana0629/Codes/tree/master/1317-monthly-transactions-i) |
 | [1541-top-travellers](https://github.com/Srujana0629/Codes/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Srujana0629/Codes/tree/master/1625-group-sold-products-by-the-date) |
