@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the SQL interview!
 | [1908-recyclable-and-low-fat-products](https://github.com/Srujana0629/Codes/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Srujana0629/Codes/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Srujana0629/Codes/tree/master/2127-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Srujana0629/Codes/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Srujana0629/Codes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
